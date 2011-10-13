@@ -1,0 +1,9 @@
+Titanium mobileで作ったメモアプリ、クローンです(iOS専用)。
+編集画面のテキストエリアのデザインはTitaniumでは再現が難しい。
+あと全体的にトランジションやウインドウオープン時の表示が残念な状態です。
+
+CoffeeScriptで書いてあるためJavascriptでは若干読みづらいかと思います。
+コードに関して質問があればtwitter(@towerofl)できいてください。
+
+当然iTunes Storeには未登録で、フォークやコードの再利用についてはどうぞご自由に。
+ライセンスはTitaniuimと同様Apache License, Version 2.0とさせていただきます。
